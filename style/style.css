@@ -458,6 +458,8 @@ header {
         -ms-flex-direction: column;
             flex-direction: column;
     gap: 1.4rem; }
+    #appointment .container form .red {
+      color: red; }
     #appointment .container form .form__group label {
       font-size: 0.85rem;
       margin-bottom: 0.4rem;
@@ -543,5 +545,4 @@ footer {
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; } }
-
 /*# sourceMappingURL=style.css.map */
